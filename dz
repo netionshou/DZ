@@ -6,7 +6,7 @@ import os
 
 # settings = input("Путь к настройкам\n")
 # print(os.path.exists(settings))
-save = r"C:\Users\Пользователь\Desktop\ПУть"
+save = r"C:\Users\Пользователь\Desktop\PycharmProject\pythonProject"
 
 # ---------------------------------
 class User(object):
